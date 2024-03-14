@@ -29,13 +29,13 @@ int main() {
       std::cout << "Charizard\n";
       break;
     case 7 :
-      std::cout << "Squirtle";
+      std::cout << "Squirtle\n";
       break;
     case 8 :
-      std::cout << "Wartortle";
+      std::cout << "Wartortle\n";
       break;
     case 9 :
-      std::cout << "Blastoise";
+      std::cout << "Blastoise\n";
       break;
     default :
       std::cout << "Unknown\n";
